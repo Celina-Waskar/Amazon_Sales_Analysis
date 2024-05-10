@@ -12,7 +12,18 @@ This project revolves around analyzing a comprehensive dataset containing Amazon
 Our dataset comprises a 9989 number of rows, each representing a distinct Amazon sales transaction. In addition to sales data, it encompasses details about customers, products, orders, and returns. Prior to analysis, rigorous preprocessing steps were undertaken to handle missing values and ensure data integrity.
 
 # Analysis Questions Resolved
+
 Throughout our analysis journey, we've tackled several pivotal questions utilizing SQL queries and data analysis techniques:
+1. What are the total sales made by each customer?
+2. How many orders were placed in each state?
+3. How many unique products were sold?
+4. How many returns were made for each product category?
+5. How many orders were placed each month(2022)?
+6. Determine the top 5 products whose revenue has decreased compared to the previous year.
+7. List all orders where the quantity sold is greater than the average quantity sold across all orders.
+8. Find out the top 5 customers who made the highest profits.
+9. Find the details of the top 5 products with the highest total sales, where the total sale for each product is greater than the average sale across all products.
+10. Calculate the profit margin percentage for each sale 
 
 # Entity-Relationship Diagram (ERD)
 ![ERD Image](https://github.com/Celina-Waskar/Amazon_Sales_Analysis/blob/main/ERD-AMAZON.png)
@@ -23,11 +34,11 @@ An Entity-Relationship Diagram (ERD) has been crafted to illustrate the relation
 
 To embark on your own analysis or delve deeper into the dataset, follow these steps:
 
-1.Clone the repository to your local machine.  
-2.Ensure you have a SQL environment set up for executing queries.  
-3.Load the provided dataset into your SQL database.  
-4.Execute the SQL queries provided within the repository to analyze the data and extract insights.  
-5.Tailor the analysis or queries according to your specific objectives and requirements.
+1. Clone the repository to your local machine.  
+2. Ensure you have a SQL environment set up for executing queries.  
+3. Load the provided dataset into your SQL database.  
+4. Execute the SQL queries provided within the repository to analyze the data and extract insights.  
+5. Tailor the analysis or queries according to your specific objectives and requirements.
 
 # Conclusion
 
