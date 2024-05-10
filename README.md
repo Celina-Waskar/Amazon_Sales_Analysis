@@ -1,4 +1,4 @@
-# Amazon_Sales_Analysis
+# Amazon Sales Analysis With SQL
 ![Banner Image](https://github.com/Celina-Waskar/Amazon_Sales_Analysis/blob/main/amazon_india_wide_image-3.jpg)
 
 Welcome to the Amazon Sales Analysis project! We're here to dig deep into Amazon's sales data, extracting insights and trends to optimize sales strategies, understand customer behavior, and enhance business operations.
