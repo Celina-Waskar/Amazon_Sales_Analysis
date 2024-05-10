@@ -23,10 +23,10 @@ An Entity-Relationship Diagram (ERD) has been crafted to illustrate the relation
 
 To embark on your own analysis or delve deeper into the dataset, follow these steps:
 
-1.Clone the repository to your local machine.
-2.Ensure you have a SQL environment set up for executing queries.
-3.Load the provided dataset into your SQL database.
-4.Execute the SQL queries provided within the repository to analyze the data and extract insights.
+1.Clone the repository to your local machine.  
+2.Ensure you have a SQL environment set up for executing queries.  
+3.Load the provided dataset into your SQL database.  
+4.Execute the SQL queries provided within the repository to analyze the data and extract insights.  
 5.Tailor the analysis or queries according to your specific objectives and requirements.
 
 # Conclusion
